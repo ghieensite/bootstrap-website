@@ -1,0 +1,51 @@
+.banner {
+    background: url("https://i.pinimg.com/736x/29/ab/2b/29ab2bc04382c7102bd6b71b5f9160e6.jpg") no-repeat center center ;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color:#fff;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: white;
+    background-color: red;
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
+
+.tim img{
+    width: 250px;
+    border: 10px solid #cccccc;
+}
+
+.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+    object-fit: contain;
+}
+
+.kontak {
+    background: url(https://th.bing.com/th/id/R.9c66799545a4dc29e3280c73376e9e7e?rik=pTVGeR1pC8CVQg&riu=http%3a%2f%2fjuraganposter.net%2fproduct_images%2fo%2f149%2fJual-Peta-Dunia-world-maps-007-scaled__68569.jpg&ehk=XLwMa7veCYFcc9d%2bzgo5lxf2FVaMbPWVjEKakURkPWw%3d&risl=&pid=ImgRaw&r=0) no-repeat;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
